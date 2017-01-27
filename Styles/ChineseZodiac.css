@@ -1,0 +1,92 @@
+#zodiacs img {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin: 20px;
+}
+h1, h2, p{
+	text-align: center;
+	font-family: Arial, Sans-serif;
+}
+
+body {
+	text-align: center;
+	background-image: url("Images/Background3.jpg");
+	background-color: #AE8E5D;
+}
+
+@media only screen and (max-width: 768px) {
+	body {
+		background-image: none;
+	}
+}
+
+#first_column {
+	display: block;
+	margin: auto;
+}
+
+#second_column {
+	display: block;
+	margin: auto;
+}
+
+#third_column {
+	display: block;
+	margin: auto;
+}
+
+#footer {
+	background-color:gray;
+	color:white;
+	margin-top: 2cm;
+}
+
+#banner {
+	display: block;
+	margin: auto;
+	width: 40%;
+}
+
+#buttons {
+	display: block;
+	margin: auto;
+	width: 50%;
+}
+
+#buttons img {
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-top: 3%;
+}
+
+#submit {
+	display: block;
+	margin: auto;
+}
+
+#table {
+	margin: auto;
+	width: 35%;
+}
+
+.forms {
+	text-align: right;
+	width: 30%;
+
+}
+
+.textbox {
+	width: 300px;
+	width: 70%;
+}
+
+p {
+	width: 75%;
+	margin: auto;
+	color: white;
+}
+
+#last_paragraph {
+	margin-bottom: 1cm;
+}
